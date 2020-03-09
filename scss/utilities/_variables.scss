@@ -1,0 +1,18 @@
+// Variables 
+$btn-bg-color: green; 
+$brd-btm-color: red; 
+$col-color-12:yellow;
+$col-color-6:purple;
+$col-color-7:lightblue;
+$btn-bg-color-light: lighten($btn-bg-color, 15%);
+
+// Font stacks
+$stack-Lato: Lato; 
+$stack-sans-sarif: sans-serif;
+
+// Font weight
+$font-wght: 300; 
+
+// Media query breakpoint
+$break-m: 768px; 
+ 
